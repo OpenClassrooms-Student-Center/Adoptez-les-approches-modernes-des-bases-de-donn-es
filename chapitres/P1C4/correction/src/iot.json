@@ -1,0 +1,3602 @@
+[
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T08:00:00Z",
+    "temperature": 20.99,
+    "humidity": 49
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T08:00:00Z",
+    "temperature": 21.3,
+    "humidity": 57
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T08:00:00Z",
+    "temperature": 19.53,
+    "humidity": 48
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T08:00:00Z",
+    "temperature": 23.16,
+    "humidity": 53
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T08:00:00Z",
+    "temperature": 19.06,
+    "humidity": 52
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T08:05:00Z",
+    "temperature": 19.07,
+    "humidity": 47
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T08:05:00Z",
+    "temperature": 20.48,
+    "humidity": 40
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T08:05:00Z",
+    "temperature": 16.55,
+    "humidity": 47
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T08:05:00Z",
+    "temperature": 17.97,
+    "humidity": 51
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T08:05:00Z",
+    "temperature": 18.18,
+    "humidity": 42
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T08:10:00Z",
+    "temperature": 22.93,
+    "humidity": 48
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T08:10:00Z",
+    "temperature": 20.14,
+    "humidity": 42
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T08:10:00Z",
+    "temperature": 18.91,
+    "humidity": 50
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T08:10:00Z",
+    "temperature": 17.7,
+    "humidity": 51
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T08:10:00Z",
+    "temperature": 18.8,
+    "humidity": 48
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T08:15:00Z",
+    "temperature": 18.8,
+    "humidity": 59
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T08:15:00Z",
+    "temperature": 19.97,
+    "humidity": 44
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T08:15:00Z",
+    "temperature": 21.65,
+    "humidity": 43
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T08:15:00Z",
+    "temperature": 20.42,
+    "humidity": 40
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T08:15:00Z",
+    "temperature": 17.34,
+    "humidity": 50
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T08:20:00Z",
+    "temperature": 21.48,
+    "humidity": 50
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T08:20:00Z",
+    "temperature": 19.77,
+    "humidity": 48
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T08:20:00Z",
+    "temperature": 17.04,
+    "humidity": 46
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T08:20:00Z",
+    "temperature": 19.08,
+    "humidity": 55
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T08:20:00Z",
+    "temperature": 20.69,
+    "humidity": 41
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T08:25:00Z",
+    "temperature": 20.65,
+    "humidity": 48
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T08:25:00Z",
+    "temperature": 18.65,
+    "humidity": 53
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T08:25:00Z",
+    "temperature": 22.06,
+    "humidity": 54
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T08:25:00Z",
+    "temperature": 18.32,
+    "humidity": 48
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T08:25:00Z",
+    "temperature": 20.66,
+    "humidity": 54
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T08:30:00Z",
+    "temperature": 19.04,
+    "humidity": 49
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T08:30:00Z",
+    "temperature": 17.79,
+    "humidity": 44
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T08:30:00Z",
+    "temperature": 21.63,
+    "humidity": 56
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T08:30:00Z",
+    "temperature": 19.86,
+    "humidity": 55
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T08:30:00Z",
+    "temperature": 20.72,
+    "humidity": 46
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T08:35:00Z",
+    "temperature": 20.72,
+    "humidity": 57
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T08:35:00Z",
+    "temperature": 19.93,
+    "humidity": 57
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T08:35:00Z",
+    "temperature": 14.76,
+    "humidity": 54
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T08:35:00Z",
+    "temperature": 20.17,
+    "humidity": 48
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T08:35:00Z",
+    "temperature": 20.18,
+    "humidity": 40
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T08:40:00Z",
+    "temperature": 19.56,
+    "humidity": 51
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T08:40:00Z",
+    "temperature": 22.96,
+    "humidity": 47
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T08:40:00Z",
+    "temperature": 18.38,
+    "humidity": 47
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T08:40:00Z",
+    "temperature": 21.83,
+    "humidity": 51
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T08:40:00Z",
+    "temperature": 18.94,
+    "humidity": 52
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T08:45:00Z",
+    "temperature": 20.19,
+    "humidity": 54
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T08:45:00Z",
+    "temperature": 18.6,
+    "humidity": 48
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T08:45:00Z",
+    "temperature": 19.22,
+    "humidity": 42
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T08:45:00Z",
+    "temperature": 20.59,
+    "humidity": 51
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T08:45:00Z",
+    "temperature": 20.01,
+    "humidity": 48
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T08:50:00Z",
+    "temperature": 17.17,
+    "humidity": 47
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T08:50:00Z",
+    "temperature": 19.31,
+    "humidity": 45
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T08:50:00Z",
+    "temperature": 19.68,
+    "humidity": 52
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T08:50:00Z",
+    "temperature": 23.77,
+    "humidity": 50
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T08:50:00Z",
+    "temperature": 20.52,
+    "humidity": 49
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T08:55:00Z",
+    "temperature": 16.16,
+    "humidity": 49
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T08:55:00Z",
+    "temperature": 20.12,
+    "humidity": 62
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T08:55:00Z",
+    "temperature": 19.62,
+    "humidity": 51
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T08:55:00Z",
+    "temperature": 19.93,
+    "humidity": 44
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T08:55:00Z",
+    "temperature": 22.29,
+    "humidity": 53
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T09:00:00Z",
+    "temperature": 21.58,
+    "humidity": 45
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T09:00:00Z",
+    "temperature": 22.81,
+    "humidity": 42
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T09:00:00Z",
+    "temperature": 21.17,
+    "humidity": 60
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T09:00:00Z",
+    "temperature": 18.02,
+    "humidity": 47
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T09:00:00Z",
+    "temperature": 20.2,
+    "humidity": 47
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T09:05:00Z",
+    "temperature": 16.9,
+    "humidity": 50
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T09:05:00Z",
+    "temperature": 17.88,
+    "humidity": 52
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T09:05:00Z",
+    "temperature": 18.16,
+    "humidity": 57
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T09:05:00Z",
+    "temperature": 18.43,
+    "humidity": 48
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T09:05:00Z",
+    "temperature": 21.63,
+    "humidity": 43
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T09:10:00Z",
+    "temperature": 20.45,
+    "humidity": 56
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T09:10:00Z",
+    "temperature": 16.79,
+    "humidity": 50
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T09:10:00Z",
+    "temperature": 20.52,
+    "humidity": 53
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T09:10:00Z",
+    "temperature": 17.53,
+    "humidity": 43
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T09:10:00Z",
+    "temperature": 21.04,
+    "humidity": 51
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T09:15:00Z",
+    "temperature": 20.5,
+    "humidity": 51
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T09:15:00Z",
+    "temperature": 18.64,
+    "humidity": 51
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T09:15:00Z",
+    "temperature": 20.59,
+    "humidity": 46
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T09:15:00Z",
+    "temperature": 23.73,
+    "humidity": 52
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T09:15:00Z",
+    "temperature": 17.62,
+    "humidity": 53
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T09:20:00Z",
+    "temperature": 18.05,
+    "humidity": 53
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T09:20:00Z",
+    "temperature": 22.32,
+    "humidity": 45
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T09:20:00Z",
+    "temperature": 21.93,
+    "humidity": 52
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T09:20:00Z",
+    "temperature": 21.64,
+    "humidity": 59
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T09:20:00Z",
+    "temperature": 19.51,
+    "humidity": 46
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T09:25:00Z",
+    "temperature": 18.22,
+    "humidity": 45
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T09:25:00Z",
+    "temperature": 19.85,
+    "humidity": 51
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T09:25:00Z",
+    "temperature": 20.55,
+    "humidity": 54
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T09:25:00Z",
+    "temperature": 20.03,
+    "humidity": 57
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T09:25:00Z",
+    "temperature": 19.47,
+    "humidity": 63
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T09:30:00Z",
+    "temperature": 21.25,
+    "humidity": 45
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T09:30:00Z",
+    "temperature": 17.86,
+    "humidity": 52
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T09:30:00Z",
+    "temperature": 19.55,
+    "humidity": 53
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T09:30:00Z",
+    "temperature": 20.95,
+    "humidity": 49
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T09:30:00Z",
+    "temperature": 18.31,
+    "humidity": 42
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T09:35:00Z",
+    "temperature": 19.11,
+    "humidity": 54
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T09:35:00Z",
+    "temperature": 20.43,
+    "humidity": 43
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T09:35:00Z",
+    "temperature": 20.35,
+    "humidity": 51
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T09:35:00Z",
+    "temperature": 18.23,
+    "humidity": 50
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T09:35:00Z",
+    "temperature": 20.12,
+    "humidity": 44
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T09:40:00Z",
+    "temperature": 20.72,
+    "humidity": 52
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T09:40:00Z",
+    "temperature": 22.17,
+    "humidity": 55
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T09:40:00Z",
+    "temperature": 17.24,
+    "humidity": 45
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T09:40:00Z",
+    "temperature": 21.03,
+    "humidity": 52
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T09:40:00Z",
+    "temperature": 21.03,
+    "humidity": 69
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T09:45:00Z",
+    "temperature": 21.14,
+    "humidity": 55
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T09:45:00Z",
+    "temperature": 21.91,
+    "humidity": 53
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T09:45:00Z",
+    "temperature": 19.37,
+    "humidity": 53
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T09:45:00Z",
+    "temperature": 18.45,
+    "humidity": 48
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T09:45:00Z",
+    "temperature": 19.03,
+    "humidity": 50
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T09:50:00Z",
+    "temperature": 24.63,
+    "humidity": 40
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T09:50:00Z",
+    "temperature": 21.37,
+    "humidity": 41
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T09:50:00Z",
+    "temperature": 19.06,
+    "humidity": 55
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T09:50:00Z",
+    "temperature": 20.13,
+    "humidity": 44
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T09:50:00Z",
+    "temperature": 18.57,
+    "humidity": 53
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T09:55:00Z",
+    "temperature": 18.54,
+    "humidity": 51
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T09:55:00Z",
+    "temperature": 20.09,
+    "humidity": 46
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T09:55:00Z",
+    "temperature": 24.29,
+    "humidity": 53
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T09:55:00Z",
+    "temperature": 15.95,
+    "humidity": 50
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T09:55:00Z",
+    "temperature": 18.68,
+    "humidity": 54
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T10:00:00Z",
+    "temperature": 18.41,
+    "humidity": 49
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T10:00:00Z",
+    "temperature": 21.01,
+    "humidity": 54
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T10:00:00Z",
+    "temperature": 17.6,
+    "humidity": 48
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T10:00:00Z",
+    "temperature": 19.05,
+    "humidity": 46
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T10:00:00Z",
+    "temperature": 23.53,
+    "humidity": 52
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T10:05:00Z",
+    "temperature": 17.48,
+    "humidity": 54
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T10:05:00Z",
+    "temperature": 24.24,
+    "humidity": 55
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T10:05:00Z",
+    "temperature": 16.96,
+    "humidity": 47
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T10:05:00Z",
+    "temperature": 22.53,
+    "humidity": 46
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T10:05:00Z",
+    "temperature": 20.89,
+    "humidity": 53
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T10:10:00Z",
+    "temperature": 18.15,
+    "humidity": 49
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T10:10:00Z",
+    "temperature": 13.52,
+    "humidity": 44
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T10:10:00Z",
+    "temperature": 19.49,
+    "humidity": 43
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T10:10:00Z",
+    "temperature": 23.26,
+    "humidity": 42
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T10:10:00Z",
+    "temperature": 19.12,
+    "humidity": 50
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T10:15:00Z",
+    "temperature": 22.88,
+    "humidity": 42
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T10:15:00Z",
+    "temperature": 22.33,
+    "humidity": 50
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T10:15:00Z",
+    "temperature": 18.04,
+    "humidity": 52
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T10:15:00Z",
+    "temperature": 20.4,
+    "humidity": 46
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T10:15:00Z",
+    "temperature": 20.14,
+    "humidity": 48
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T10:20:00Z",
+    "temperature": 20.23,
+    "humidity": 53
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T10:20:00Z",
+    "temperature": 23.17,
+    "humidity": 43
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T10:20:00Z",
+    "temperature": 24.27,
+    "humidity": 40
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T10:20:00Z",
+    "temperature": 19.7,
+    "humidity": 52
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T10:20:00Z",
+    "temperature": 20.56,
+    "humidity": 46
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T10:25:00Z",
+    "temperature": 19.58,
+    "humidity": 47
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T10:25:00Z",
+    "temperature": 18.82,
+    "humidity": 54
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T10:25:00Z",
+    "temperature": 20.71,
+    "humidity": 46
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T10:25:00Z",
+    "temperature": 21.8,
+    "humidity": 51
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T10:25:00Z",
+    "temperature": 21.63,
+    "humidity": 53
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T10:30:00Z",
+    "temperature": 18.34,
+    "humidity": 47
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T10:30:00Z",
+    "temperature": 21.49,
+    "humidity": 53
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T10:30:00Z",
+    "temperature": 19.96,
+    "humidity": 50
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T10:30:00Z",
+    "temperature": 22.56,
+    "humidity": 47
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T10:30:00Z",
+    "temperature": 21.09,
+    "humidity": 48
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T10:35:00Z",
+    "temperature": 19.56,
+    "humidity": 55
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T10:35:00Z",
+    "temperature": 21.65,
+    "humidity": 54
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T10:35:00Z",
+    "temperature": 22.61,
+    "humidity": 50
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T10:35:00Z",
+    "temperature": 21.36,
+    "humidity": 48
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T10:35:00Z",
+    "temperature": 20.65,
+    "humidity": 49
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T10:40:00Z",
+    "temperature": 20.19,
+    "humidity": 52
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T10:40:00Z",
+    "temperature": 18.36,
+    "humidity": 60
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T10:40:00Z",
+    "temperature": 17.99,
+    "humidity": 43
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T10:40:00Z",
+    "temperature": 22.32,
+    "humidity": 53
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T10:40:00Z",
+    "temperature": 21.25,
+    "humidity": 53
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T10:45:00Z",
+    "temperature": 19.98,
+    "humidity": 45
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T10:45:00Z",
+    "temperature": 20.15,
+    "humidity": 46
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T10:45:00Z",
+    "temperature": 21.95,
+    "humidity": 49
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T10:45:00Z",
+    "temperature": 18.35,
+    "humidity": 48
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T10:45:00Z",
+    "temperature": 20.83,
+    "humidity": 47
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T10:50:00Z",
+    "temperature": 18.36,
+    "humidity": 51
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T10:50:00Z",
+    "temperature": 20.49,
+    "humidity": 47
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T10:50:00Z",
+    "temperature": 19.06,
+    "humidity": 51
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T10:50:00Z",
+    "temperature": 17.1,
+    "humidity": 42
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T10:50:00Z",
+    "temperature": 18.56,
+    "humidity": 48
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T10:55:00Z",
+    "temperature": 20.62,
+    "humidity": 57
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T10:55:00Z",
+    "temperature": 21.72,
+    "humidity": 49
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T10:55:00Z",
+    "temperature": 19.96,
+    "humidity": 44
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T10:55:00Z",
+    "temperature": 19.96,
+    "humidity": 48
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T10:55:00Z",
+    "temperature": 20.65,
+    "humidity": 45
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T11:00:00Z",
+    "temperature": 21.04,
+    "humidity": 57
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T11:00:00Z",
+    "temperature": 19.78,
+    "humidity": 52
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T11:00:00Z",
+    "temperature": 21.38,
+    "humidity": 47
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T11:00:00Z",
+    "temperature": 20.45,
+    "humidity": 50
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T11:00:00Z",
+    "temperature": 20.2,
+    "humidity": 46
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T11:05:00Z",
+    "temperature": 20.05,
+    "humidity": 52
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T11:05:00Z",
+    "temperature": 22.9,
+    "humidity": 54
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T11:05:00Z",
+    "temperature": 24.31,
+    "humidity": 46
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T11:05:00Z",
+    "temperature": 21.74,
+    "humidity": 50
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T11:05:00Z",
+    "temperature": 24.38,
+    "humidity": 45
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T11:10:00Z",
+    "temperature": 18.32,
+    "humidity": 47
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T11:10:00Z",
+    "temperature": 15.75,
+    "humidity": 47
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T11:10:00Z",
+    "temperature": 18.48,
+    "humidity": 50
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T11:10:00Z",
+    "temperature": 20.68,
+    "humidity": 59
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T11:10:00Z",
+    "temperature": 21.9,
+    "humidity": 47
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T11:15:00Z",
+    "temperature": 18.2,
+    "humidity": 52
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T11:15:00Z",
+    "temperature": 17.36,
+    "humidity": 59
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T11:15:00Z",
+    "temperature": 22.36,
+    "humidity": 47
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T11:15:00Z",
+    "temperature": 16.57,
+    "humidity": 56
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T11:15:00Z",
+    "temperature": 19.77,
+    "humidity": 56
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T11:20:00Z",
+    "temperature": 16.81,
+    "humidity": 47
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T11:20:00Z",
+    "temperature": 20.01,
+    "humidity": 50
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T11:20:00Z",
+    "temperature": 19.1,
+    "humidity": 53
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T11:20:00Z",
+    "temperature": 17.86,
+    "humidity": 49
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T11:20:00Z",
+    "temperature": 20.24,
+    "humidity": 52
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T11:25:00Z",
+    "temperature": 21.42,
+    "humidity": 44
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T11:25:00Z",
+    "temperature": 16.93,
+    "humidity": 56
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T11:25:00Z",
+    "temperature": 20.66,
+    "humidity": 46
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T11:25:00Z",
+    "temperature": 23.1,
+    "humidity": 50
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T11:25:00Z",
+    "temperature": 22.36,
+    "humidity": 50
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T11:30:00Z",
+    "temperature": 24.12,
+    "humidity": 58
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T11:30:00Z",
+    "temperature": 19.5,
+    "humidity": 54
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T11:30:00Z",
+    "temperature": 21.29,
+    "humidity": 56
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T11:30:00Z",
+    "temperature": 18.07,
+    "humidity": 53
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T11:30:00Z",
+    "temperature": 22.12,
+    "humidity": 41
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T11:35:00Z",
+    "temperature": 17.63,
+    "humidity": 39
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T11:35:00Z",
+    "temperature": 19.46,
+    "humidity": 53
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T11:35:00Z",
+    "temperature": 23.0,
+    "humidity": 50
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T11:35:00Z",
+    "temperature": 23.26,
+    "humidity": 43
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T11:35:00Z",
+    "temperature": 16.59,
+    "humidity": 49
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T11:40:00Z",
+    "temperature": 20.77,
+    "humidity": 49
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T11:40:00Z",
+    "temperature": 15.87,
+    "humidity": 49
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T11:40:00Z",
+    "temperature": 17.39,
+    "humidity": 53
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T11:40:00Z",
+    "temperature": 20.73,
+    "humidity": 45
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T11:40:00Z",
+    "temperature": 18.97,
+    "humidity": 44
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T11:45:00Z",
+    "temperature": 19.87,
+    "humidity": 54
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T11:45:00Z",
+    "temperature": 18.03,
+    "humidity": 52
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T11:45:00Z",
+    "temperature": 18.94,
+    "humidity": 46
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T11:45:00Z",
+    "temperature": 19.79,
+    "humidity": 44
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T11:45:00Z",
+    "temperature": 18.89,
+    "humidity": 44
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T11:50:00Z",
+    "temperature": 23.93,
+    "humidity": 50
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T11:50:00Z",
+    "temperature": 18.6,
+    "humidity": 51
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T11:50:00Z",
+    "temperature": 19.78,
+    "humidity": 48
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T11:50:00Z",
+    "temperature": 21.23,
+    "humidity": 53
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T11:50:00Z",
+    "temperature": 18.94,
+    "humidity": 47
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T11:55:00Z",
+    "temperature": 19.45,
+    "humidity": 38
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T11:55:00Z",
+    "temperature": 16.97,
+    "humidity": 56
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T11:55:00Z",
+    "temperature": 23.29,
+    "humidity": 48
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T11:55:00Z",
+    "temperature": 21.15,
+    "humidity": 51
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T11:55:00Z",
+    "temperature": 26.16,
+    "humidity": 55
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T12:00:00Z",
+    "temperature": 19.74,
+    "humidity": 45
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T12:00:00Z",
+    "temperature": 16.79,
+    "humidity": 51
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T12:00:00Z",
+    "temperature": 18.49,
+    "humidity": 42
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T12:00:00Z",
+    "temperature": 18.71,
+    "humidity": 44
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T12:00:00Z",
+    "temperature": 23.37,
+    "humidity": 54
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T12:05:00Z",
+    "temperature": 19.98,
+    "humidity": 57
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T12:05:00Z",
+    "temperature": 20.15,
+    "humidity": 45
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T12:05:00Z",
+    "temperature": 23.05,
+    "humidity": 52
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T12:05:00Z",
+    "temperature": 17.93,
+    "humidity": 49
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T12:05:00Z",
+    "temperature": 18.25,
+    "humidity": 43
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T12:10:00Z",
+    "temperature": 21.85,
+    "humidity": 59
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T12:10:00Z",
+    "temperature": 17.2,
+    "humidity": 52
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T12:10:00Z",
+    "temperature": 18.7,
+    "humidity": 47
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T12:10:00Z",
+    "temperature": 18.82,
+    "humidity": 45
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T12:10:00Z",
+    "temperature": 20.1,
+    "humidity": 45
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T12:15:00Z",
+    "temperature": 20.54,
+    "humidity": 49
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T12:15:00Z",
+    "temperature": 19.52,
+    "humidity": 45
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T12:15:00Z",
+    "temperature": 18.85,
+    "humidity": 53
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T12:15:00Z",
+    "temperature": 21.0,
+    "humidity": 45
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T12:15:00Z",
+    "temperature": 20.2,
+    "humidity": 53
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T12:20:00Z",
+    "temperature": 16.66,
+    "humidity": 52
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T12:20:00Z",
+    "temperature": 18.67,
+    "humidity": 52
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T12:20:00Z",
+    "temperature": 18.47,
+    "humidity": 40
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T12:20:00Z",
+    "temperature": 16.74,
+    "humidity": 50
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T12:20:00Z",
+    "temperature": 20.52,
+    "humidity": 45
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T12:25:00Z",
+    "temperature": 21.28,
+    "humidity": 41
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T12:25:00Z",
+    "temperature": 19.87,
+    "humidity": 43
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T12:25:00Z",
+    "temperature": 18.7,
+    "humidity": 50
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T12:25:00Z",
+    "temperature": 18.28,
+    "humidity": 48
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T12:25:00Z",
+    "temperature": 22.01,
+    "humidity": 47
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T12:30:00Z",
+    "temperature": 21.67,
+    "humidity": 44
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T12:30:00Z",
+    "temperature": 21.06,
+    "humidity": 57
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T12:30:00Z",
+    "temperature": 15.06,
+    "humidity": 46
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T12:30:00Z",
+    "temperature": 21.15,
+    "humidity": 48
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T12:30:00Z",
+    "temperature": 20.74,
+    "humidity": 46
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T12:35:00Z",
+    "temperature": 20.17,
+    "humidity": 49
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T12:35:00Z",
+    "temperature": 22.34,
+    "humidity": 51
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T12:35:00Z",
+    "temperature": 20.68,
+    "humidity": 47
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T12:35:00Z",
+    "temperature": 19.02,
+    "humidity": 47
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T12:35:00Z",
+    "temperature": 20.79,
+    "humidity": 47
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T12:40:00Z",
+    "temperature": 20.58,
+    "humidity": 60
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T12:40:00Z",
+    "temperature": 21.74,
+    "humidity": 48
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T12:40:00Z",
+    "temperature": 22.4,
+    "humidity": 47
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T12:40:00Z",
+    "temperature": 15.92,
+    "humidity": 44
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T12:40:00Z",
+    "temperature": 16.26,
+    "humidity": 48
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T12:45:00Z",
+    "temperature": 20.04,
+    "humidity": 58
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T12:45:00Z",
+    "temperature": 20.65,
+    "humidity": 48
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T12:45:00Z",
+    "temperature": 21.66,
+    "humidity": 38
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T12:45:00Z",
+    "temperature": 20.47,
+    "humidity": 53
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T12:45:00Z",
+    "temperature": 17.04,
+    "humidity": 55
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T12:50:00Z",
+    "temperature": 20.68,
+    "humidity": 47
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T12:50:00Z",
+    "temperature": 21.27,
+    "humidity": 61
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T12:50:00Z",
+    "temperature": 20.36,
+    "humidity": 51
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T12:50:00Z",
+    "temperature": 19.08,
+    "humidity": 45
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T12:50:00Z",
+    "temperature": 21.66,
+    "humidity": 45
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T12:55:00Z",
+    "temperature": 20.14,
+    "humidity": 47
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T12:55:00Z",
+    "temperature": 20.96,
+    "humidity": 51
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T12:55:00Z",
+    "temperature": 22.08,
+    "humidity": 47
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T12:55:00Z",
+    "temperature": 19.46,
+    "humidity": 45
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T12:55:00Z",
+    "temperature": 19.11,
+    "humidity": 51
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T13:00:00Z",
+    "temperature": 21.51,
+    "humidity": 45
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T13:00:00Z",
+    "temperature": 21.74,
+    "humidity": 56
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T13:00:00Z",
+    "temperature": 20.83,
+    "humidity": 59
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T13:00:00Z",
+    "temperature": 18.45,
+    "humidity": 43
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T13:00:00Z",
+    "temperature": 16.44,
+    "humidity": 57
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T13:05:00Z",
+    "temperature": 21.31,
+    "humidity": 49
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T13:05:00Z",
+    "temperature": 20.56,
+    "humidity": 44
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T13:05:00Z",
+    "temperature": 24.89,
+    "humidity": 50
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T13:05:00Z",
+    "temperature": 20.22,
+    "humidity": 53
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T13:05:00Z",
+    "temperature": 20.96,
+    "humidity": 51
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T13:10:00Z",
+    "temperature": 18.42,
+    "humidity": 52
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T13:10:00Z",
+    "temperature": 23.76,
+    "humidity": 56
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T13:10:00Z",
+    "temperature": 23.19,
+    "humidity": 47
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T13:10:00Z",
+    "temperature": 18.02,
+    "humidity": 49
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T13:10:00Z",
+    "temperature": 20.11,
+    "humidity": 55
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T13:15:00Z",
+    "temperature": 16.62,
+    "humidity": 57
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T13:15:00Z",
+    "temperature": 19.68,
+    "humidity": 47
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T13:15:00Z",
+    "temperature": 17.98,
+    "humidity": 41
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T13:15:00Z",
+    "temperature": 21.65,
+    "humidity": 50
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T13:15:00Z",
+    "temperature": 17.42,
+    "humidity": 43
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T13:20:00Z",
+    "temperature": 19.33,
+    "humidity": 58
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T13:20:00Z",
+    "temperature": 19.48,
+    "humidity": 42
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T13:20:00Z",
+    "temperature": 19.51,
+    "humidity": 48
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T13:20:00Z",
+    "temperature": 14.61,
+    "humidity": 49
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T13:20:00Z",
+    "temperature": 19.54,
+    "humidity": 53
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T13:25:00Z",
+    "temperature": 23.7,
+    "humidity": 55
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T13:25:00Z",
+    "temperature": 19.46,
+    "humidity": 44
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T13:25:00Z",
+    "temperature": 25.15,
+    "humidity": 50
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T13:25:00Z",
+    "temperature": 20.03,
+    "humidity": 49
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T13:25:00Z",
+    "temperature": 20.4,
+    "humidity": 49
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T13:30:00Z",
+    "temperature": 18.85,
+    "humidity": 47
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T13:30:00Z",
+    "temperature": 19.93,
+    "humidity": 47
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T13:30:00Z",
+    "temperature": 18.57,
+    "humidity": 50
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T13:30:00Z",
+    "temperature": 19.49,
+    "humidity": 57
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T13:30:00Z",
+    "temperature": 14.7,
+    "humidity": 55
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T13:35:00Z",
+    "temperature": 22.49,
+    "humidity": 39
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T13:35:00Z",
+    "temperature": 19.31,
+    "humidity": 48
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T13:35:00Z",
+    "temperature": 17.18,
+    "humidity": 46
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T13:35:00Z",
+    "temperature": 17.78,
+    "humidity": 58
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T13:35:00Z",
+    "temperature": 21.87,
+    "humidity": 56
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T13:40:00Z",
+    "temperature": 21.44,
+    "humidity": 44
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T13:40:00Z",
+    "temperature": 18.95,
+    "humidity": 52
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T13:40:00Z",
+    "temperature": 17.56,
+    "humidity": 53
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T13:40:00Z",
+    "temperature": 19.52,
+    "humidity": 48
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T13:40:00Z",
+    "temperature": 21.42,
+    "humidity": 52
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T13:45:00Z",
+    "temperature": 19.28,
+    "humidity": 55
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T13:45:00Z",
+    "temperature": 17.84,
+    "humidity": 53
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T13:45:00Z",
+    "temperature": 21.19,
+    "humidity": 48
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T13:45:00Z",
+    "temperature": 20.65,
+    "humidity": 43
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T13:45:00Z",
+    "temperature": 21.85,
+    "humidity": 49
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T13:50:00Z",
+    "temperature": 18.95,
+    "humidity": 55
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T13:50:00Z",
+    "temperature": 18.59,
+    "humidity": 42
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T13:50:00Z",
+    "temperature": 16.89,
+    "humidity": 53
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T13:50:00Z",
+    "temperature": 17.44,
+    "humidity": 58
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T13:50:00Z",
+    "temperature": 15.84,
+    "humidity": 58
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T13:55:00Z",
+    "temperature": 20.42,
+    "humidity": 49
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T13:55:00Z",
+    "temperature": 18.91,
+    "humidity": 51
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T13:55:00Z",
+    "temperature": 19.92,
+    "humidity": 55
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T13:55:00Z",
+    "temperature": 20.23,
+    "humidity": 50
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T13:55:00Z",
+    "temperature": 19.27,
+    "humidity": 49
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T14:00:00Z",
+    "temperature": 20.62,
+    "humidity": 41
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T14:00:00Z",
+    "temperature": 17.3,
+    "humidity": 53
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T14:00:00Z",
+    "temperature": 20.34,
+    "humidity": 49
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T14:00:00Z",
+    "temperature": 20.04,
+    "humidity": 51
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T14:00:00Z",
+    "temperature": 18.92,
+    "humidity": 46
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T14:05:00Z",
+    "temperature": 20.39,
+    "humidity": 45
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T14:05:00Z",
+    "temperature": 20.82,
+    "humidity": 41
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T14:05:00Z",
+    "temperature": 22.06,
+    "humidity": 52
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T14:05:00Z",
+    "temperature": 20.51,
+    "humidity": 54
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T14:05:00Z",
+    "temperature": 23.33,
+    "humidity": 55
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T14:10:00Z",
+    "temperature": 16.32,
+    "humidity": 43
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T14:10:00Z",
+    "temperature": 18.75,
+    "humidity": 50
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T14:10:00Z",
+    "temperature": 21.04,
+    "humidity": 46
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T14:10:00Z",
+    "temperature": 20.37,
+    "humidity": 46
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T14:10:00Z",
+    "temperature": 18.78,
+    "humidity": 42
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T14:15:00Z",
+    "temperature": 18.15,
+    "humidity": 43
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T14:15:00Z",
+    "temperature": 18.05,
+    "humidity": 55
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T14:15:00Z",
+    "temperature": 18.1,
+    "humidity": 63
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T14:15:00Z",
+    "temperature": 20.99,
+    "humidity": 50
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T14:15:00Z",
+    "temperature": 18.28,
+    "humidity": 53
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T14:20:00Z",
+    "temperature": 18.85,
+    "humidity": 50
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T14:20:00Z",
+    "temperature": 25.12,
+    "humidity": 49
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T14:20:00Z",
+    "temperature": 22.3,
+    "humidity": 46
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T14:20:00Z",
+    "temperature": 19.93,
+    "humidity": 58
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T14:20:00Z",
+    "temperature": 18.75,
+    "humidity": 59
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T14:25:00Z",
+    "temperature": 21.42,
+    "humidity": 47
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T14:25:00Z",
+    "temperature": 21.26,
+    "humidity": 54
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T14:25:00Z",
+    "temperature": 21.24,
+    "humidity": 42
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T14:25:00Z",
+    "temperature": 18.55,
+    "humidity": 48
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T14:25:00Z",
+    "temperature": 19.85,
+    "humidity": 53
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T14:30:00Z",
+    "temperature": 20.36,
+    "humidity": 43
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T14:30:00Z",
+    "temperature": 20.76,
+    "humidity": 53
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T14:30:00Z",
+    "temperature": 21.12,
+    "humidity": 55
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T14:30:00Z",
+    "temperature": 21.67,
+    "humidity": 52
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T14:30:00Z",
+    "temperature": 19.86,
+    "humidity": 41
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T14:35:00Z",
+    "temperature": 20.86,
+    "humidity": 51
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T14:35:00Z",
+    "temperature": 20.54,
+    "humidity": 43
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T14:35:00Z",
+    "temperature": 17.84,
+    "humidity": 55
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T14:35:00Z",
+    "temperature": 19.92,
+    "humidity": 53
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T14:35:00Z",
+    "temperature": 20.06,
+    "humidity": 50
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T14:40:00Z",
+    "temperature": 21.88,
+    "humidity": 47
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T14:40:00Z",
+    "temperature": 20.19,
+    "humidity": 47
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T14:40:00Z",
+    "temperature": 19.13,
+    "humidity": 48
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T14:40:00Z",
+    "temperature": 20.44,
+    "humidity": 47
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T14:40:00Z",
+    "temperature": 22.51,
+    "humidity": 45
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T14:45:00Z",
+    "temperature": 19.63,
+    "humidity": 47
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T14:45:00Z",
+    "temperature": 22.89,
+    "humidity": 50
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T14:45:00Z",
+    "temperature": 22.06,
+    "humidity": 42
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T14:45:00Z",
+    "temperature": 20.53,
+    "humidity": 54
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T14:45:00Z",
+    "temperature": 20.16,
+    "humidity": 55
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T14:50:00Z",
+    "temperature": 18.97,
+    "humidity": 57
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T14:50:00Z",
+    "temperature": 24.6,
+    "humidity": 48
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T14:50:00Z",
+    "temperature": 19.11,
+    "humidity": 57
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T14:50:00Z",
+    "temperature": 23.16,
+    "humidity": 47
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T14:50:00Z",
+    "temperature": 19.16,
+    "humidity": 48
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T14:55:00Z",
+    "temperature": 17.31,
+    "humidity": 45
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T14:55:00Z",
+    "temperature": 17.99,
+    "humidity": 46
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T14:55:00Z",
+    "temperature": 19.93,
+    "humidity": 51
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T14:55:00Z",
+    "temperature": 23.1,
+    "humidity": 45
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T14:55:00Z",
+    "temperature": 21.97,
+    "humidity": 48
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T15:00:00Z",
+    "temperature": 19.9,
+    "humidity": 53
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T15:00:00Z",
+    "temperature": 17.75,
+    "humidity": 51
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T15:00:00Z",
+    "temperature": 20.33,
+    "humidity": 52
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T15:00:00Z",
+    "temperature": 20.58,
+    "humidity": 62
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T15:00:00Z",
+    "temperature": 18.72,
+    "humidity": 47
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T15:05:00Z",
+    "temperature": 18.75,
+    "humidity": 47
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T15:05:00Z",
+    "temperature": 18.73,
+    "humidity": 55
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T15:05:00Z",
+    "temperature": 22.84,
+    "humidity": 47
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T15:05:00Z",
+    "temperature": 18.34,
+    "humidity": 52
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T15:05:00Z",
+    "temperature": 18.9,
+    "humidity": 53
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T15:10:00Z",
+    "temperature": 20.41,
+    "humidity": 42
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T15:10:00Z",
+    "temperature": 23.1,
+    "humidity": 58
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T15:10:00Z",
+    "temperature": 18.77,
+    "humidity": 48
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T15:10:00Z",
+    "temperature": 20.57,
+    "humidity": 51
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T15:10:00Z",
+    "temperature": 21.32,
+    "humidity": 60
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T15:15:00Z",
+    "temperature": 19.65,
+    "humidity": 46
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T15:15:00Z",
+    "temperature": 17.24,
+    "humidity": 46
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T15:15:00Z",
+    "temperature": 19.93,
+    "humidity": 58
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T15:15:00Z",
+    "temperature": 18.96,
+    "humidity": 51
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T15:15:00Z",
+    "temperature": 19.97,
+    "humidity": 55
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T15:20:00Z",
+    "temperature": 25.05,
+    "humidity": 47
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T15:20:00Z",
+    "temperature": 19.02,
+    "humidity": 55
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T15:20:00Z",
+    "temperature": 21.36,
+    "humidity": 59
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T15:20:00Z",
+    "temperature": 21.17,
+    "humidity": 48
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T15:20:00Z",
+    "temperature": 21.18,
+    "humidity": 55
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T15:25:00Z",
+    "temperature": 21.64,
+    "humidity": 52
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T15:25:00Z",
+    "temperature": 22.13,
+    "humidity": 55
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T15:25:00Z",
+    "temperature": 22.76,
+    "humidity": 53
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T15:25:00Z",
+    "temperature": 19.67,
+    "humidity": 50
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T15:25:00Z",
+    "temperature": 22.41,
+    "humidity": 45
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T15:30:00Z",
+    "temperature": 20.74,
+    "humidity": 48
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T15:30:00Z",
+    "temperature": 20.06,
+    "humidity": 56
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T15:30:00Z",
+    "temperature": 20.38,
+    "humidity": 50
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T15:30:00Z",
+    "temperature": 17.28,
+    "humidity": 53
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T15:30:00Z",
+    "temperature": 21.29,
+    "humidity": 60
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T15:35:00Z",
+    "temperature": 19.38,
+    "humidity": 51
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T15:35:00Z",
+    "temperature": 20.5,
+    "humidity": 57
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T15:35:00Z",
+    "temperature": 19.81,
+    "humidity": 51
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T15:35:00Z",
+    "temperature": 21.22,
+    "humidity": 50
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T15:35:00Z",
+    "temperature": 19.11,
+    "humidity": 50
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T15:40:00Z",
+    "temperature": 22.15,
+    "humidity": 44
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T15:40:00Z",
+    "temperature": 20.27,
+    "humidity": 46
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T15:40:00Z",
+    "temperature": 22.39,
+    "humidity": 42
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T15:40:00Z",
+    "temperature": 18.88,
+    "humidity": 51
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T15:40:00Z",
+    "temperature": 23.13,
+    "humidity": 49
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T15:45:00Z",
+    "temperature": 18.89,
+    "humidity": 59
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T15:45:00Z",
+    "temperature": 17.1,
+    "humidity": 39
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T15:45:00Z",
+    "temperature": 20.88,
+    "humidity": 47
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T15:45:00Z",
+    "temperature": 17.96,
+    "humidity": 53
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T15:45:00Z",
+    "temperature": 20.49,
+    "humidity": 47
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T15:50:00Z",
+    "temperature": 17.44,
+    "humidity": 54
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T15:50:00Z",
+    "temperature": 21.3,
+    "humidity": 49
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T15:50:00Z",
+    "temperature": 23.69,
+    "humidity": 44
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T15:50:00Z",
+    "temperature": 16.95,
+    "humidity": 46
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T15:50:00Z",
+    "temperature": 19.91,
+    "humidity": 51
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T15:55:00Z",
+    "temperature": 19.52,
+    "humidity": 51
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T15:55:00Z",
+    "temperature": 17.5,
+    "humidity": 57
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T15:55:00Z",
+    "temperature": 19.84,
+    "humidity": 55
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T15:55:00Z",
+    "temperature": 20.69,
+    "humidity": 52
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T15:55:00Z",
+    "temperature": 21.14,
+    "humidity": 52
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T16:00:00Z",
+    "temperature": 21.29,
+    "humidity": 56
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T16:00:00Z",
+    "temperature": 20.39,
+    "humidity": 53
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T16:00:00Z",
+    "temperature": 19.82,
+    "humidity": 57
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T16:00:00Z",
+    "temperature": 18.65,
+    "humidity": 59
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T16:00:00Z",
+    "temperature": 19.92,
+    "humidity": 42
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T16:05:00Z",
+    "temperature": 20.26,
+    "humidity": 46
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T16:05:00Z",
+    "temperature": 21.68,
+    "humidity": 46
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T16:05:00Z",
+    "temperature": 19.11,
+    "humidity": 40
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T16:05:00Z",
+    "temperature": 19.1,
+    "humidity": 37
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T16:05:00Z",
+    "temperature": 16.83,
+    "humidity": 53
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T16:10:00Z",
+    "temperature": 21.57,
+    "humidity": 52
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T16:10:00Z",
+    "temperature": 18.07,
+    "humidity": 49
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T16:10:00Z",
+    "temperature": 19.99,
+    "humidity": 44
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T16:10:00Z",
+    "temperature": 23.01,
+    "humidity": 54
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T16:10:00Z",
+    "temperature": 19.56,
+    "humidity": 50
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T16:15:00Z",
+    "temperature": 20.42,
+    "humidity": 39
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T16:15:00Z",
+    "temperature": 19.51,
+    "humidity": 46
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T16:15:00Z",
+    "temperature": 18.0,
+    "humidity": 48
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T16:15:00Z",
+    "temperature": 23.6,
+    "humidity": 53
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T16:15:00Z",
+    "temperature": 18.86,
+    "humidity": 52
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T16:20:00Z",
+    "temperature": 22.8,
+    "humidity": 54
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T16:20:00Z",
+    "temperature": 20.12,
+    "humidity": 46
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T16:20:00Z",
+    "temperature": 21.4,
+    "humidity": 51
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T16:20:00Z",
+    "temperature": 21.79,
+    "humidity": 53
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T16:20:00Z",
+    "temperature": 22.1,
+    "humidity": 47
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T16:25:00Z",
+    "temperature": 22.63,
+    "humidity": 50
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T16:25:00Z",
+    "temperature": 24.15,
+    "humidity": 46
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T16:25:00Z",
+    "temperature": 23.47,
+    "humidity": 50
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T16:25:00Z",
+    "temperature": 18.7,
+    "humidity": 47
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T16:25:00Z",
+    "temperature": 19.36,
+    "humidity": 52
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T16:30:00Z",
+    "temperature": 21.05,
+    "humidity": 47
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T16:30:00Z",
+    "temperature": 19.95,
+    "humidity": 60
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T16:30:00Z",
+    "temperature": 23.46,
+    "humidity": 52
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T16:30:00Z",
+    "temperature": 20.08,
+    "humidity": 50
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T16:30:00Z",
+    "temperature": 21.23,
+    "humidity": 44
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T16:35:00Z",
+    "temperature": 19.49,
+    "humidity": 41
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T16:35:00Z",
+    "temperature": 20.8,
+    "humidity": 53
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T16:35:00Z",
+    "temperature": 19.03,
+    "humidity": 57
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T16:35:00Z",
+    "temperature": 17.55,
+    "humidity": 42
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T16:35:00Z",
+    "temperature": 20.45,
+    "humidity": 55
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T16:40:00Z",
+    "temperature": 23.37,
+    "humidity": 47
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T16:40:00Z",
+    "temperature": 22.16,
+    "humidity": 49
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T16:40:00Z",
+    "temperature": 19.65,
+    "humidity": 54
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T16:40:00Z",
+    "temperature": 21.3,
+    "humidity": 42
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T16:40:00Z",
+    "temperature": 22.95,
+    "humidity": 56
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T16:45:00Z",
+    "temperature": 18.75,
+    "humidity": 51
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T16:45:00Z",
+    "temperature": 20.99,
+    "humidity": 51
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T16:45:00Z",
+    "temperature": 18.9,
+    "humidity": 46
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T16:45:00Z",
+    "temperature": 19.95,
+    "humidity": 55
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T16:45:00Z",
+    "temperature": 21.09,
+    "humidity": 48
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T16:50:00Z",
+    "temperature": 21.54,
+    "humidity": 35
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T16:50:00Z",
+    "temperature": 22.3,
+    "humidity": 41
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T16:50:00Z",
+    "temperature": 19.28,
+    "humidity": 44
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T16:50:00Z",
+    "temperature": 17.41,
+    "humidity": 55
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T16:50:00Z",
+    "temperature": 19.06,
+    "humidity": 51
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T16:55:00Z",
+    "temperature": 19.91,
+    "humidity": 52
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T16:55:00Z",
+    "temperature": 20.15,
+    "humidity": 43
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T16:55:00Z",
+    "temperature": 21.99,
+    "humidity": 47
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T16:55:00Z",
+    "temperature": 16.89,
+    "humidity": 47
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T16:55:00Z",
+    "temperature": 23.0,
+    "humidity": 54
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T17:00:00Z",
+    "temperature": 19.3,
+    "humidity": 48
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T17:00:00Z",
+    "temperature": 19.36,
+    "humidity": 60
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T17:00:00Z",
+    "temperature": 20.76,
+    "humidity": 52
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T17:00:00Z",
+    "temperature": 22.06,
+    "humidity": 51
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T17:00:00Z",
+    "temperature": 19.48,
+    "humidity": 49
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T17:05:00Z",
+    "temperature": 19.86,
+    "humidity": 49
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T17:05:00Z",
+    "temperature": 21.46,
+    "humidity": 50
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T17:05:00Z",
+    "temperature": 21.47,
+    "humidity": 49
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T17:05:00Z",
+    "temperature": 20.16,
+    "humidity": 40
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T17:05:00Z",
+    "temperature": 21.83,
+    "humidity": 51
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T17:10:00Z",
+    "temperature": 22.0,
+    "humidity": 35
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T17:10:00Z",
+    "temperature": 24.18,
+    "humidity": 49
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T17:10:00Z",
+    "temperature": 22.22,
+    "humidity": 44
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T17:10:00Z",
+    "temperature": 21.23,
+    "humidity": 44
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T17:10:00Z",
+    "temperature": 18.75,
+    "humidity": 59
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T17:15:00Z",
+    "temperature": 19.62,
+    "humidity": 51
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T17:15:00Z",
+    "temperature": 21.74,
+    "humidity": 52
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T17:15:00Z",
+    "temperature": 20.3,
+    "humidity": 51
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T17:15:00Z",
+    "temperature": 24.81,
+    "humidity": 49
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T17:15:00Z",
+    "temperature": 20.4,
+    "humidity": 55
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T17:20:00Z",
+    "temperature": 22.21,
+    "humidity": 55
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T17:20:00Z",
+    "temperature": 21.28,
+    "humidity": 44
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T17:20:00Z",
+    "temperature": 23.27,
+    "humidity": 44
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T17:20:00Z",
+    "temperature": 20.61,
+    "humidity": 46
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T17:20:00Z",
+    "temperature": 19.87,
+    "humidity": 51
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T17:25:00Z",
+    "temperature": 20.64,
+    "humidity": 52
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T17:25:00Z",
+    "temperature": 23.23,
+    "humidity": 52
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T17:25:00Z",
+    "temperature": 19.51,
+    "humidity": 54
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T17:25:00Z",
+    "temperature": 22.38,
+    "humidity": 43
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T17:25:00Z",
+    "temperature": 21.19,
+    "humidity": 53
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T17:30:00Z",
+    "temperature": 19.4,
+    "humidity": 56
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T17:30:00Z",
+    "temperature": 19.7,
+    "humidity": 50
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T17:30:00Z",
+    "temperature": 19.65,
+    "humidity": 50
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T17:30:00Z",
+    "temperature": 17.81,
+    "humidity": 42
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T17:30:00Z",
+    "temperature": 23.19,
+    "humidity": 45
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T17:35:00Z",
+    "temperature": 18.02,
+    "humidity": 39
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T17:35:00Z",
+    "temperature": 18.72,
+    "humidity": 43
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T17:35:00Z",
+    "temperature": 23.28,
+    "humidity": 55
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T17:35:00Z",
+    "temperature": 18.62,
+    "humidity": 61
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T17:35:00Z",
+    "temperature": 21.96,
+    "humidity": 48
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T17:40:00Z",
+    "temperature": 15.0,
+    "humidity": 61
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T17:40:00Z",
+    "temperature": 17.22,
+    "humidity": 41
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T17:40:00Z",
+    "temperature": 22.05,
+    "humidity": 62
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T17:40:00Z",
+    "temperature": 22.77,
+    "humidity": 52
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T17:40:00Z",
+    "temperature": 21.19,
+    "humidity": 54
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T17:45:00Z",
+    "temperature": 21.52,
+    "humidity": 51
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T17:45:00Z",
+    "temperature": 20.21,
+    "humidity": 49
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T17:45:00Z",
+    "temperature": 18.49,
+    "humidity": 48
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T17:45:00Z",
+    "temperature": 16.61,
+    "humidity": 49
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T17:45:00Z",
+    "temperature": 18.02,
+    "humidity": 44
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T17:50:00Z",
+    "temperature": 20.36,
+    "humidity": 56
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T17:50:00Z",
+    "temperature": 21.84,
+    "humidity": 42
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T17:50:00Z",
+    "temperature": 18.02,
+    "humidity": 54
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T17:50:00Z",
+    "temperature": 18.04,
+    "humidity": 48
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T17:50:00Z",
+    "temperature": 21.1,
+    "humidity": 45
+  },
+  {
+    "device_id": "capteur_01",
+    "timestamp": "2025-02-01T17:55:00Z",
+    "temperature": 20.21,
+    "humidity": 43
+  },
+  {
+    "device_id": "capteur_02",
+    "timestamp": "2025-02-01T17:55:00Z",
+    "temperature": 18.8,
+    "humidity": 51
+  },
+  {
+    "device_id": "capteur_03",
+    "timestamp": "2025-02-01T17:55:00Z",
+    "temperature": 16.81,
+    "humidity": 52
+  },
+  {
+    "device_id": "capteur_04",
+    "timestamp": "2025-02-01T17:55:00Z",
+    "temperature": 19.96,
+    "humidity": 52
+  },
+  {
+    "device_id": "capteur_05",
+    "timestamp": "2025-02-01T17:55:00Z",
+    "temperature": 20.45,
+    "humidity": 56
+  }
+]

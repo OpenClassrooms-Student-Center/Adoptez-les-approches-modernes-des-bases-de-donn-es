@@ -5,7 +5,7 @@ from botocore.exceptions import ClientError
 
 def list_buckets():
     """
-    Liste tous les buckets S3 existants.
+    Liste tous les buckets MinIO existants.
     """
     global s3
     try:
@@ -25,10 +25,10 @@ def list_buckets():
 
 def create_bucket(bucket_name):
     """
-    Crée un bucket S3 avec le nom spécifié.
+    Crée un bucket MinIO avec le nom spécifié.
     
     Args:
-        bucket_name (str): Nom du bucket (doit être unique globalement dans AWS)
+        bucket_name (str): Nom du bucket
     """
     global s3
     try:
@@ -53,12 +53,12 @@ def create_bucket(bucket_name):
 
 def upload_file(bucket_name, local_file, object_key):
     """
-    Upload un fichier vers un bucket S3.
+    Upload un fichier vers un bucket MinIO.
     
     Args:
-        bucket_name (str): Nom du bucket S3
+        bucket_name (str): Nom du bucket
         local_file (str): Chemin local du fichier à uploader
-        object_key (str): Clé (chemin) dans le bucket S3
+        object_key (str): Clé (chemin) dans le bucket
     """
     global s3
     try:
@@ -91,7 +91,7 @@ def upload_file(bucket_name, local_file, object_key):
 if __name__ == "__main__":
     global s3
     
-    parser = argparse.ArgumentParser(description="Démonstration AWS S3 pour screencast")
+    parser = argparse.ArgumentParser(description="Démonstration MinIO pour screencast")
     parser.add_argument(
         "action",
         choices=["list_buckets", "create_bucket", "upload_file", "all"],
@@ -100,7 +100,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "--bucket",
         default="openclassrooms-datalake-8481716-demo-xx",
-        help="Nom du bucket S3 (défaut: openclassrooms-datalake-8481716-demo-xx). Remplacez datalex par vos initiales"
+        help="Nom du bucket (défaut: openclassrooms-datalake-8481716-demo-xx). Remplacez xx par vos initiales"
     )
     parser.add_argument(
         "--file",
@@ -110,23 +110,41 @@ if __name__ == "__main__":
     parser.add_argument(
         "--s3-key",
         default="raw/current/sample.txt",
-        help="Clé S3 de destination (défaut: raw/current/sample.txt)"
+        help="Clé de destination (défaut: raw/current/sample.txt)"
     )
     parser.add_argument(
-        "--profile",
-        default=None,
-        help="Nom du profil AWS à utiliser (optionnel, utilise les credentials par défaut si non spécifié)"
+        "--endpoint",
+        default="http://localhost:9000",
+        help="URL de l'endpoint MinIO (défaut: http://localhost:9000)"
+    )
+    parser.add_argument(
+        "--access-key",
+        default="minioadmin",
+        help="Access Key MinIO (défaut: minioadmin)"
+    )
+    parser.add_argument(
+        "--secret-key",
+        default="minioadmin",
+        help="Secret Key MinIO (défaut: minioadmin)"
+    )
+    parser.add_argument(
+        "--use-ssl",
+        action="store_true",
+        help="Utiliser SSL/TLS pour la connexion MinIO (défaut: False)"
     )
     
     args = parser.parse_args()
     
-    # Initialisation du client S3 avec ou sans profil
-    if args.profile:
-        session = boto3.Session(profile_name=args.profile)
-        s3 = session.client('s3')
-        print(f"Utilisation du profil AWS: {args.profile}")
-    else:
-        s3 = boto3.client('s3')
+    # Initialisation du client MinIO (compatible S3)
+    s3 = boto3.client(
+        's3',
+        endpoint_url=args.endpoint,
+        aws_access_key_id=args.access_key,
+        aws_secret_access_key=args.secret_key,
+        use_ssl=args.use_ssl,
+        verify=False  # Désactiver la vérification SSL pour les instances locales
+    )
+    print(f"Connexion à MinIO: {args.endpoint}")
     
     if args.action == "list_buckets":
         list_buckets()
