@@ -1,0 +1,9 @@
+GreenFarm - IoT Sensor Data (Sample)
+
+device_id: GF-TEST-001
+timestamp: 2025-01-01T12:00:00Z
+temperature: 21.7
+humidity: 54.2
+soil_moisture: 31.5
+
+This file is used as a demonstration asset for the AWS S3 and MinIO screencasts.
