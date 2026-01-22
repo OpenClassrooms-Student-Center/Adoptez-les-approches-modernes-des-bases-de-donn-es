@@ -1,0 +1,5 @@
+sensor_id,humidity,parcel
+101,41.3,North-1
+102,46.8,East-2
+103,44.5,South-3
+999,50.0,Old-9

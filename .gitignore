@@ -25,6 +25,7 @@ Thumbs.db
 # -- delta / iceberg files --
 **/delta*
 **/iceberg*
+**/data*
 
 
 # VSCode
