@@ -22,6 +22,11 @@ build/
 .DS_Store
 Thumbs.db
 
+# -- delta / iceberg files --
+**/delta*
+**/iceberg*
+
+
 # VSCode
 .vscode/
 .settings/ 

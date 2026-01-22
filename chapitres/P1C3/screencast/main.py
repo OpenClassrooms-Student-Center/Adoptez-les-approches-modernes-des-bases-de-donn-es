@@ -99,8 +99,8 @@ if __name__ == "__main__":
     )
     parser.add_argument(
         "--bucket",
-        default="openclassrooms-datalake-8481716-demo-xx",
-        help="Nom du bucket S3 (défaut: openclassrooms-datalake-8481716-demo-xx). Remplacez datalex par vos initiales"
+        default="openclassrooms-datalake-8481716-demo-datalex",
+        help="Nom du bucket S3 (défaut: openclassrooms-datalake-8481716-demo-datalex). Remplacez datalex par vos initiales"
     )
     parser.add_argument(
         "--file",
